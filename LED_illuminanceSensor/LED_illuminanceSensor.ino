@@ -56,7 +56,7 @@ void loop() {
 
   count++;
 
-  delay(5);
+  delay(10);
 }
 
 // culculation for LED Modulation
